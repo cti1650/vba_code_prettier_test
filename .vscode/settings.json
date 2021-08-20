@@ -2,6 +2,21 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+  "[bas]": {
+    "files.encoding": "shiftjis"
+  },
+  "[cls]": {
+    "files.encoding": "shiftjis"
+  },
+  "[frm]": {
+    "files.encoding": "shiftjis"
+  },
+  "[dcm]": {
+    "files.encoding": "shiftjis"
+  },
+  "[vbaproj]": {
+    "files.encoding": "shiftjis"
+  },
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
