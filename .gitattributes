@@ -1,0 +1,13 @@
+  
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.bas       text   working-tree-encoding=sjis  eol=crlf
+*.cls       text   working-tree-encoding=sjis  eol=crlf
+*.frm       text   working-tree-encoding=sjis  eol=crlf
+*.frx       -text
+*.dcm       text   working-tree-encoding=sjis  eol=crlf
+*.vbaproj   text   working-tree-encoding=sjis  eol=crlf
+
+*.wsf       text    eol=crlf
+*.bat       text    eol=crlf

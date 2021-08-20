@@ -1,0 +1,13 @@
+{
+    "scripts":{
+        "combine":"cscript //nologo vbac.wsf combine",
+        "decombine":"cscript //nologo vbac.wsf decombine"
+    },
+    "dependencies": {
+        "prettier": "^2.3.2"
+    },
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.3.0"
+    }
+}

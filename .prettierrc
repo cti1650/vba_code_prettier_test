@@ -1,0 +1,34 @@
+{
+  "printWidth": 120,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "semi": false,
+  "overrides": [
+    {
+      "files": ["*.js"],
+      "options": {
+        "singleQuote": true,
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": ["*.json"],
+      "options": {
+        "parser": "json",
+        "singleQuote": true,
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": ["**/*.bas", "*.bas", "*.cls"],
+      "options": {
+        "parser": "none",
+        "singleQuote": true,
+        "useTabs": true,
+        "endOfLine": "crlf",
+        "tabWidth": 2
+      }
+    }
+  ]
+}
