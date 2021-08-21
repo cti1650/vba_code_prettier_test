@@ -92,3 +92,9 @@ VS Marketplace リンク: https://marketplace.visualstudio.com/items?itemName=es
 - Office ファイルから VBA のソースコードを抽出したり結合できる
 
 [https://webbibouroku.com/Blog/Article/vbac](https://webbibouroku.com/Blog/Article/vbac)
+
+### VBAをVSCodeで開くときに文字化けさせない方法
+
+- VSCodeでShift_JISの自動判定エンコードでの注意
+
+[https://qiita.com/wagase/items/4ce025b260d1f81dc020](https://qiita.com/wagase/items/4ce025b260d1f81dc020)
